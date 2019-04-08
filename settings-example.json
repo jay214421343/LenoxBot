@@ -1,7 +1,7 @@
 {
     "owners": ["UserID", "UserID", "UserID"],
-	"token": "Your Super Secret Token",
-    "prefix": "Standard Prefix",
+	"token": "NTYxODM0NjExMTU2NTgyNDIw.XKtgTQ.y8Kp3F4aY7ML9bZH7-xa1gdHYB0",
+    "prefix": "!",
     "sqlitefilename": "",
     "googleKey": "Google Custom Search API Key",
     "googlekey": "Youtube API key",
