@@ -1,14 +1,14 @@
 {
-    "owners": ["358661627459141642", "UserID", "UserID"],
+    "owners": ["358661627459141642"],
 	"token": "NTg1NDczNDIxNjYwNTIwNDY2.XPzWaQ.JdZMx8et8blEvuE3OEwD05_dFOw",
     "prefix": "!",
     "sqlitefilename": "",
-    "googleKey": "Google Custom Search API Key",
-    "googlekey": "Youtube API key",
-    "clientID_Auth": "Client ID Auth",
-    "clientSecret_Auth": "Client Secret Auth",
-    "callbackURL_Auth": "Callback URL Auth",
-    "dbl_apikey": "Your Discord Bot List API Token",
-    "websiteport": "Port of the website",
-    "keychannel": "Channelid where all premium keys should be posted in"
+    "googleKey": "AIzaSyD8CNiCM65vZ7n3EprQFUwOrqRtWzLnqDE",
+    "googlekey": "AIzaSyD8CNiCM65vZ7n3EprQFUwOrqRtWzLnqDE",
+    "clientID_Auth": "585473421660520466",
+    "clientSecret_Auth": "hxRnXaq_ca6SIvaU_jUn4Z6z7ojSwAJq",
+    "callbackURL_Auth": "https://www.lol.com",
+    "dbl_apikey": "82368283829",
+    "websiteport": "localhost:5000",
+    "keychannel": "587218825804775427"
 }
